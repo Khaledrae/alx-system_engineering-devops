@@ -20,3 +20,6 @@ Task #18 Prints the whole file excluding some pattern
 Task #19 Prints all the lines that start with letters.
 Task #20 swaps letters in text using tr
 Task #21 deletes some characters from text
+Task #22 reverses input
+Task #23 sorts users according to users file page
+
