@@ -6,3 +6,12 @@ The fourth script prints a two files
 The fifth gets you the last ten lines of a file
 The sixth gets you the first ten lines of a file
 The 7th file selects a certain line to print
+Task #8 has special characters in the titlee, let's see about that
+Task #9 redirects the current state of the directory to a file
+Task #10 Duolicates the last line of the file
+Task #11 deletes * Js files
+Task #12 counts the number of directories and subdirectories
+Task #13 Lists the newest 10 files
+Task #14 sorts for a uniq char in a file/line of text
+Task #15 searhs for a word in a file
+Task #16 counts the number of times a word appears.
