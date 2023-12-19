@@ -13,7 +13,7 @@ Task #11 deletes * Js files
 Task #12 counts the number of directories and subdirectories
 Task #13 Lists the newest 10 files
 Task #14 sorts for a uniq char in a file/line of text
-Task #15 searhs for a word in a file
+Task #15 searchs for a word in a file
 Task #16 counts the number of times a word appears.
 Task #17 prints the line that contains the pattern and the next 3
 Task #18 Prints the whole file excluding some pattern
